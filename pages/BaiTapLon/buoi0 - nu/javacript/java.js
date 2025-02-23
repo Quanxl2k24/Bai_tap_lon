@@ -107,9 +107,9 @@ for(let i = 0; i < 12; i++){
                             <div class="tron"><i class="fa-solid fa-heart"></i></div>
                             <div class="tron"><i class="fa-solid fa-arrows-rotate"></i></div>
                         </div>
-                        <button>Thêm Vào Giỏ Hàng</button>
+                                            <a href="https://nguyenvan-trung.github.io/HIT-WEB-2024/BaiTapLon/buoi5%20-%20${i+2}/index.html"><button>Thêm Vào Giỏ Hàng</button></a>
                     </div>
-                    <h4>${note[i]}</h4>
+
                     <h4 style="color:#ff6347 ;">${price[i]}</h4>
     `;
 
